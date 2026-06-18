@@ -6,7 +6,7 @@ AI大模型中转站已经是很多企业工作室用户的刚需。而面对目
 
 这里我推荐这款“**[巴士哥AI大模型API中转站真假/注水/掺水检测工具](https://apitest.bashige.com/)**”，这款工具从10项技术维度对API进行检测，最后给出一个满分为100分的评分，用户可根据评分决定要不要使用这家API中转站。
 
-![](https://notefiles.bashige.com/note/a25606f7-53b0-42f1-9865-aec8b56b335c.jpg)
+![](apitest.jpg)
 
 这款工具的使用方法也特别简单，仅需输入API接口的Base Url、Api Key、Model ID这三项，然后点击开始检测按钮，大约运行30秒左右就可以查看检测报告。
 
