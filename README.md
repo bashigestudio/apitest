@@ -29,7 +29,8 @@ AI大模型中转站已经是很多企业工作室用户的刚需。而面对目
 经过对市面上数百家中转站进行严苛测试，大部分多少都有注水掺水的情况，不过注水掺水这还不是问题所在，关键的是一些价格低的吓人的聚合平台往往使用不正规甚至非法的方式搞到的API，用New API套个壳就开始销售，也不乏一些卷钱跑路的。对于企业、工作室等专业用户来说，稳定才是王道，不能为了贪图低廉的价格影响自己工作进度不是？
 
 这里推荐WaveSpeed AI这款由新加披公司主体运营的AI大模型聚合平台，他家公司名称和办公地址均在其网站上有注明，不是那种小作坊能比的。运营的模型数百款，市面上有的他家都有，例如Claude Opus、Fable 5、Google Gemini、OpenAI GPT系列大预言模型、GPT Image2、Nano Banana2等图片生成模型、Seedance 2.0、HappyHorse、Kling、Luma AI等视频生成模型等。支持支付宝、微信、万事达Visa卡付款，充值方便。
-[立即注册WaveSpeed体验测试](https://wavespeed.ai/?ref=git)
+
+**[立即注册WaveSpeed体验测试](https://wavespeed.ai/?ref=git)**
 
 ![](wavespeed1.jpg)
 
