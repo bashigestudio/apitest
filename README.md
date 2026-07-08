@@ -34,7 +34,7 @@ AI大模型中转站已经是很多企业工作室用户的刚需。而面对目
 
 **[立即注册WaveSpeed体验测试](https://wavespeed.ai/?ref=git)**
 
-详细介绍：[严选2026专业靠谱的AI大模型中转站 Claude Opus、OpenAI稳定API聚合平台推荐](https://bestllm.bashige.com/1.html)
+详细介绍：[《严选2026专业靠谱的AI大模型中转站 Claude Opus、OpenAI稳定API聚合平台推荐》](https://bestllm.bashige.com/1.html)
 
 ![](wavespeed1.jpg)
 
