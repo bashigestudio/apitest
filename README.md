@@ -87,3 +87,9 @@ Cursor连续续订了2个月后，不打算续订了，20美元/月并不是付�
 
 纵观市面上各种五花八门的中转站，我认为WaveSpeed是市面上最好的了，平台老板是用心做产品的，你就安心稳定用就行，根本不必担心什么注水跑路问题。**[立即注册WaveSpeed AI!](https://wavespeed.ai/?ref=git)**
 
+## 分享我用AI编程工具做的一些作品，文科生搞编程，让各位见笑了
+
+- [Voice Recorder Online](https://recorder.bashige.com/)，一款在线录音机，支持降噪，支持录制麦克风和电脑媒体声音
+- [Free Online OCR](https://ocr.bashige.com/)，一款免费在线的图片识别文字OCR工具，纯浏览器运行，采用了传统的Tesseract OCR引擎，快速高效
+- [千里江山图在线赏析](https://qianlijiangshan.bashige.com/)，在线欣赏名画《千里江山图》，可放大6000倍看图片细节
+- [Best Guitar Tuner](https://guitartuner.bashige.com/)，免费在线的吉他调音器
