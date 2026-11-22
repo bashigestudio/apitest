@@ -52,7 +52,7 @@ Cursor连续续订了2个月后，不打算续订了，20美元/月并不是付�
 
 ![](wavespeed-login.jpg)
 
-### 市面上有的大语言模型、图片音视频模型应有尽有！
+### 市面上有的大语言模型、图片音视频生成模型应有尽有！
 
 - 大语言模型包括：Anthropic旗下Claude全系、OpenAI旗下GPT全系、Google公司Gemini全系、SpaceXSI旗下Grok全系、DeepSeek全系、阿里旗下Qwen全系、智普公司Glm全系等。
 - 图片音频视频生成模型包括：MiniMax H3、Seedream、Nano Banana、GPT Image、Wan、Keling、Qwen TTS、MiniMax Speech等。
@@ -61,3 +61,20 @@ Cursor连续续订了2个月后，不打算续订了，20美元/月并不是付�
 
 ![](wavespeed-image.jpg)
 
+### 无需订阅，按使用量收费，高性价比
+
+不同于固定月费订阅方式，WaveSpeed AI采用按使用量计费。比如用Google Nano-Banana-Pro大模型生成一张4K高清图片，单词扣费0.24美元，大语言模型则按Token用量收费。平台有详细计费明细，成本透明、预算可控。我在这里已经消费不少钱了。
+
+![](wavespeed-bill.jpg)
+
+### 提供OpenAI兼容的API接口，便于远程调用
+
+通过创建API Key可用于远程调用，适合开发者、独立创作者和企业团队快速接入多模型能力。
+
+![](wavespeed-key.jpg)
+
+### 独家特色——网页及PC桌面客户端的图片音视频创作工作台
+
+如果您是专门做图片或短视频的，那我就更加强烈推荐WaveSpeed AI了。除了在网页端进行图片音视频创作外，他家还有一个PC桌面客户端，这是其他小作坊中转站所没的比的！仅需把所创建的API Key填进去即可使用，可以实时显示账户余额。每次的图片音视频创作都显示具体消耗的金额，便于成本控制。PC桌面客户端还提供包括Z-Image在内的多款完全免费图片视频AI工具，无需API调用，本地运算，电脑配置不能太低哦！
+
+![](wavespeed-pc.jpg)
