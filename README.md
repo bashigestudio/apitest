@@ -5,6 +5,7 @@
 - [巴士哥中转站API注水掺假真伪检测工具详细介绍](#bashige-apitest)
 - [巴士哥严选——稳定靠谱合规的Claude、GPT全系大模型中转聚合平台测评推荐](#platform-review)
 - [我的Claude账户被封后，我用API对接到OpenCode编程工具](#wavespeed-opencode)
+- [几个AI编程的小玩意儿](#coding-demo)
 
 <a id="bashige-ai"></a>
 ## 先讲一下这款大模型API检测工具的由来
@@ -110,6 +111,7 @@ Cursor连续续订了2个月后，不打算续订了，20美元/月并不是付�
 
 ![](wavespeed-opencode.jpg)
 
+<a id="coding-demo"></a>
 ## 分享我用AI编程工具做的一些作品，文科生搞编程，让各位见笑了
 
 - [Voice Recorder Online](https://recorder.bashige.com/)，一款在线录音机，支持降噪，支持录制麦克风和电脑媒体声音
