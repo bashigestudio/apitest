@@ -103,3 +103,17 @@ Cursor连续续订了2个月后，不打算续订了，20美元/月并不是付�
 - [Free Online OCR](https://ocr.bashige.com/)，一款免费在线的图片识别文字OCR工具，纯浏览器运行，采用了传统的Tesseract OCR引擎，快速高效
 - [千里江山图在线赏析](https://qianlijiangshan.bashige.com/)，在线欣赏名画《千里江山图》，可放大6000倍看图片细节
 - [Best Guitar Tuner](https://guitartuner.bashige.com/)，免费在线的吉他调音器
+
+## 我的Claude账号被封后，我决定放弃申诉
+前一段时间，我的Claude账号也跟大家一样被封了，其实我这个Claude账号被封的挺冤的，老早就注册了，但一直压箱底吃灰几乎没咋用过，主要用Gemini和Grok。一个都不咋用的账号，那你Anthropic封个毛啊！
+
+那么还有必要申诉解封吗？我决定放弃！
+
+封号邮件中有提到可以申诉，不过想了想，也没必要浪费这个时间折腾了。我只是一个小白，懂一些皮毛技术，哪有实力能跟Anthropic先进的风控技术斗智斗勇。Claude开启KYC身份验证机制后，一些大聪明花钱从非洲、东南亚那里搞了一些经过验证的成品账号，这种手法也不见得就能保证账号100%安全。除了注册手法、网络IP线路外，Claude还会从用户与大模型之间的交互中来判断是不是“不受支持的国家地区”的用户，除非你不跟Claude聊天，不然它总能找出一些蛛丝马迹来封禁账号。用来编程的话已经越来越离不开Claude Opus了，一天不用就浑身难受，Claude Opus越来越像毒品了，一旦上瘾，戒都戒不掉，只怪它太他妈好用了。最后还是选择了[新加坡WaveSpeed AI大模型聚合中转平台](https://wavespeed.ai/?ref=git)采用API调用的方式对接到OpenCode编程工具。现在OpenCode已经内置了WaveSpeed AI作为模型供应商，仅需填个Api Key就能直接使用了。
+
+![](wavespeed-opencode.jpg)
+
+
+
+
+
