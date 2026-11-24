@@ -77,9 +77,9 @@ Cursor连续续订了2个月后，不打算续订了，20美元/月并不是付�
 
 ![](wavespeed-bill.jpg)
 
-### 提供OpenAI兼容的API接口，便于远程调用
+### 创建OpenAI兼容的API Key接口，便于远程调用
 
-通过创建API Key可用于远程调用，适合开发者、独立创作者和企业团队快速接入多模型能力。
+平台提供与OpenAI兼容的Base URL、Model ID、Api Key三要素，可用于把模型对接到任何聊天软件或AI编程工具，例如Cherry Studio、Chatbox AI、OpenCode这些。Api Key密钥以wsk开头，创建时仅显示一次，请及时复制黏贴。用来进行测试的话建议专门创建一个测试API，测试完就删除，以免泄密造成财产损失。
 
 ![](wavespeed-key.jpg)
 
