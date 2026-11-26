@@ -1,9 +1,9 @@
 # 30秒一键检测！大模型中转站API真假/注水/掺水/以次充好检测工具网站 | 靠谱的Claude、GPT中转站聚合平台测评推荐
 
 ## 文章目录
-- [先讲一下这款大模型API检测工具的由来](#bashige-ai)
+- [这款大模型API注水掺假检测工具的由来](#bashige-ai)
 - [巴士哥中转站API注水掺假真伪检测工具详细介绍](#bashige-apitest)
-- [巴士哥严选——稳定靠谱合规的Claude、GPT全系大模型中转聚合平台测评推荐](#platform-review)
+- [巴士哥严选——稳定靠谱合规的Claude、GPT全系大模型中转聚合平台测评推荐！](#platform-review)
 - [我的Claude账户被封后，我用API对接到OpenCode编程工具](#wavespeed-opencode)
 - [几个AI编程的小玩意儿](#coding-demo)
 
