@@ -112,7 +112,7 @@ Cursor连续续订了2个月后，不打算续订了，20美元/月并不算多�
 
 平台最低起充5美元。支持Google Pay、万事达Visa信用卡、支付宝、微信、PayPal、PayNoW等国际主流付款方式，并提供详细充值记录，支付过程丝滑流畅。采用的是Stripe条纹、Airwallex空中云汇等顶级支付网关，即便用信用卡付款也不必担心卡号安全问题。
 
-了解Crypto行业的小伙伴应该知道市面上有一些支持USDC/USDT稳定币充值的“U卡”，例如著名的香港RedotPay Crypto Card等，手里有闲置加密货币的，开通万事达Visa卡在这里购买Token消费掉也是个不错的选择。
+了解Crypto行业的小伙伴应该知道市面上有一些支持USDC/USDT稳定币充值的“U卡”，例如著名的香港RedotPay Crypto Card、新加坡Buvei Card等，手里有闲置加密货币的，开通万事达Visa卡在这里购买Token消费掉也是个不错的选择。
 
 ![](wavespeed-pay.jpg)
 
